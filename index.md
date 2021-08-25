@@ -7,6 +7,18 @@
 ##  Profile
  - 名前：saito  
  - 出身: kanagawa  
- - 得意なこと:   
+ - 得意なこと:
+   
+## Skills
+OS: windows 
+languages: js
+Frameworks: Node.js Express
+Tool,middleWare: git. PostgreSQL
 
+## Contact
+3759@icloud.com
 
+## histroy
+学歴・職歴
+2018年 IT系へ再就職
+2021年　導入支援・開発経験を経て、現在はデータセンターにて運用業務にあたっています。
